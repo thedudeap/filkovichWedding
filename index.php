@@ -18,12 +18,19 @@
             width:100%;
             height:100%;
         }
+        .romanovichTitle {
+            text-align: center;
+            position: relative;
+            bottom:100px;
+            color:#FFF;
+            margin: 0 auto;
 
+        }
     </style>
 </head>
 <body>
 <div class="backgroundImage">
 </div>
-<h1 style="position:absolute; margin:auto auto;">Romanovich Wedding 2016</h1>
+<h1 class="romanovichTitle">Romanovich Wedding 2016</h1>
 </body>
 </html>
