@@ -25,7 +25,9 @@
             width:500px;
             color:#FFF;
             bottom:100px;
-            margin-left: auto;
+            left:50%;
+            margin-left: -250px;
+            font-size:48px;
 
         }
     </style>
