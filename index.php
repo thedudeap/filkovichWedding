@@ -13,7 +13,6 @@
         }
         .backgroundImage{
             background-image: url('https://s3.amazonaws.com/filkovichwedding/romanovich.jpg');
-            background-position: center;
             background-size: cover;
             position: absolute;
             width:100%;
