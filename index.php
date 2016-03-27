@@ -22,11 +22,11 @@
             text-align: center;
             position: absolute;
             text-align: center;
-            width:500px;
+            width:750px;
             color:#FFF;
             bottom:100px;
             left:50%;
-            margin-left: -250px;
+            margin-left: -375px;
             font-size:48px;
 
         }
