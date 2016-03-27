@@ -20,10 +20,12 @@
         }
         .romanovichTitle {
             text-align: center;
-            position: relative;
-            bottom:100px;
+            position: absolute;
+            text-align: center;
+            width:500px;
             color:#FFF;
-            margin: 0 auto;
+            bottom:100px;
+            margin-left: auto;
 
         }
     </style>
